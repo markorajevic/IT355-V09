@@ -1,0 +1,7 @@
+com\metropolitan\service\InMemoryMemberService.class
+com\metropolitan\config\CourtRestConfiguration.class
+com\metropolitan\service\MemberService.class
+com\metropolitan\config\CourtRestApplicationInitializer.class
+com\metropolitan\domain\Members.class
+com\metropolitan\domain\Member.class
+com\metropolitan\controller\RestMemberController.class
